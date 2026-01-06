@@ -32,6 +32,9 @@
     <td align="center" width="120">
       <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sql_data_base_with_logo.svg" width="60" height="60" alt="SQL" /><br>SQL
     </td>
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="60" height="60" alt="SQL" /><br>Kotlin
+    </td>
   </tr>
 </table>
 
@@ -75,18 +78,18 @@
     <td align="center" width="120">
       <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60" height="60" alt="Git" /><br>Git
     </td>
-    <td align="center" width="120">
+    <!-- <td align="center" width="120">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="60" height="60" alt="Docker" /><br>Docker
-    </td>
+    </td> -->
     <td align="center" width="120">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="60" height="60" alt="Postman" /><br>Postman
     </td>
-    <!-- <td align="center" width="120">
-      <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="60" height="60" alt="Jenkins" /><br>Jenkins
+    <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/250px-Android_Studio_icon_%282023%29.svg.png?20230919062400" width="60" height="60" alt="Jenkins" /><br>Android Studio
     </td>
     <td align="center" width="120">
-      <img src="https://icon.icepanel.io/Technology/svg/SonarQube.svg" width="60" height="60" alt="SonarQube" /><br>SonarQube
-    </td> -->
+      <img src="https://pnghdpro.com/wp-content/themes/pnghdpro/download/social-media-and-brands/spring-boot-logo-icon.png" width="60" height="60" alt="SonarQube" /><br>SpringBoot
+    </td>
     <td align="center" width="120">
       <img src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/rest-api-icon.png" width="60" height="60" alt="REST API" /><br>REST API
     </td>
