@@ -57,9 +57,9 @@
     <td align="center" width="120">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="60" height="60" alt="Node.js" /><br>Node.js
     </td>
-    <!-- <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="60" height="60" alt="Redux" /><br>Redux
-    </td> -->
+    <td align="center" width="120">
+      <img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-1elwQ9eKqBI-q6cGngDKg.png" width="60" height="60" alt="Redux" /><br>Jetpack Compose
+    </td>
   </tr>
   <tr>
     <td align="center" width="120">
