@@ -21,6 +21,9 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="60" height="60" alt="TypeScript" /><br>TypeScript
     </td>
     <td align="center" width="120">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="60" height="60" alt="C" /><br>C
+    </td>
+    <td align="center" width="120">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60" height="60" alt="Java" /><br>Java
     </td>
     <td align="center" width="120">
