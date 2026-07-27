@@ -68,9 +68,9 @@
     <td align="center" width="120">
       <img src="https://icon.icepanel.io/Technology/svg/Tailwind-CSS.svg" width="60" height="60" alt="TailwindCSS" /><br>TailwindCSS
     </td>
-    <td align="center" width="120">
+    <!-- <td align="center" width="120">
       <img src="https://axios-http.com/assets/logo.svg" width="60" height="60" alt="Axios" /><br>Axios
-    </td>
+    </td> -->
   </tr>
 </table>
 
